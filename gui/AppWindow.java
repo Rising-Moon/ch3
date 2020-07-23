@@ -6,6 +6,7 @@ public class AppWindow {
    public static void main(String [] args) {
       try
       {
+         //123123123
          //设置本属性将改变窗口边框样式定义
          BeautyEyeLNFHelper.frameBorderStyle = BeautyEyeLNFHelper.FrameBorderStyle.osLookAndFeelDecorated;
          org.jb2011.lnf.beautyeye.BeautyEyeLNFHelper.launchBeautyEyeLNF();
