@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 15 15:04:52 CST 2017:
+正在使用类加载程序 sun.misc.Launcher$ExtClassLoader@81197d 引导数据库
+目录 F:\大电脑上上的书\java课程设计第3版\Java课程设计第3版源代码\ch3\程序发布\MyEnglishBook 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) 实例 a816c00e-015c-aa91-a9d5-000000b046f0
+已从 file:/D:/jdk1.8/jre/lib/ext/derby.jar 加载
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=F:\大电脑上上的书\java课程设计第3版\Java课程设计第3版源代码\ch3\程序发布
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+数据库类加载程序已启动 - derby.database.classpath=''
